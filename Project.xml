@@ -55,7 +55,7 @@
 	<haxelib name="flixel-tools" />
 
 	<!-- In case you want to use the modding framework -->
-	<haxelib name="polymod" if="FUTURE_POLYMOD" />
+	<haxelib name="scriptless-polymod" if="FUTURE_POLYMOD" />
 
 	<!-- ______________________________ Haxedefines _____________________________ -->
 
